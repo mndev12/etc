@@ -1,6 +1,15 @@
+# Created by Matt
+# 10.27.13
+# --------
+# Note: To map new bindings for keys you need to hit ctrl + v then whatever
+# key your trying to bind to generate the keystroke output.
+# --------
+
 # ------------------------------------------------------------------------------
 # SCREEN SETTINGS
 # ------------------------------------------------------------------------------
+
+
 startup_message off
 defscrollback 10000
 
