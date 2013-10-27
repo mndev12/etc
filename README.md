@@ -1,0 +1,4 @@
+etc
+===
+
+all *nix settings
